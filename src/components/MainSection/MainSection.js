@@ -23,7 +23,7 @@ const MainSection = () => {
             <header>
             {/* className="mt-5 ms-lg-5 ms-md-4 ms-sm-3" */}
                 <div className="container ">
-                <h2 className="text-primary">We Help You Make Better Informed Career Decisions</h2>
+                <h2 className="text-primary">We Help fgdhgh ghfchgch ghhfhgchg You Make Better Informed Career Decisions</h2>
                 <p>With our Pool of resources, Expertise and Compassion we help students make informed career decisions towards studying their dream courses in their most preferred institution</p>
                 <div className="my-4">
                 <a className="btn btn-primary" href="#" role="button">Get Started</a>
