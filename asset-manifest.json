@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/YouthsandCareers/static/css/main.29b548f3.chunk.css",
+    "main.js": "/YouthsandCareers/static/js/main.8f612234.chunk.js",
+    "main.js.map": "/YouthsandCareers/static/js/main.8f612234.chunk.js.map",
+    "runtime-main.js": "/YouthsandCareers/static/js/runtime-main.7d4c5b58.js",
+    "runtime-main.js.map": "/YouthsandCareers/static/js/runtime-main.7d4c5b58.js.map",
+    "static/css/2.65af8127.chunk.css": "/YouthsandCareers/static/css/2.65af8127.chunk.css",
+    "static/js/2.ae22fe96.chunk.js": "/YouthsandCareers/static/js/2.ae22fe96.chunk.js",
+    "static/js/2.ae22fe96.chunk.js.map": "/YouthsandCareers/static/js/2.ae22fe96.chunk.js.map",
+    "index.html": "/YouthsandCareers/index.html",
+    "static/css/2.65af8127.chunk.css.map": "/YouthsandCareers/static/css/2.65af8127.chunk.css.map",
+    "static/css/main.29b548f3.chunk.css.map": "/YouthsandCareers/static/css/main.29b548f3.chunk.css.map",
+    "static/js/2.ae22fe96.chunk.js.LICENSE.txt": "/YouthsandCareers/static/js/2.ae22fe96.chunk.js.LICENSE.txt",
+    "static/media/GlobalEvent.css": "/YouthsandCareers/static/media/EventsImg.16f985f7.png",
+    "static/media/AboutUs.css": "/YouthsandCareers/static/media/Hero-img.1eb57f55.png",
+    "static/media/Logo.7b34cb67.jpg": "/YouthsandCareers/static/media/Logo.7b34cb67.jpg",
+    "static/media/OurServices.css": "/YouthsandCareers/static/media/ServicesBG.789cfa1f.jpg",
+    "static/media/WorkWithUs.css": "/YouthsandCareers/static/media/WorkWithBG.351deda9.png",
+    "static/media/about1.1ef8dfe7.png": "/YouthsandCareers/static/media/about1.1ef8dfe7.png",
+    "static/media/about2.3c6971de.png": "/YouthsandCareers/static/media/about2.3c6971de.png",
+    "static/media/about3.30982fb0.png": "/YouthsandCareers/static/media/about3.30982fb0.png",
+    "static/media/about4.05b9c98d.png": "/YouthsandCareers/static/media/about4.05b9c98d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d4c5b58.js",
+    "static/css/2.65af8127.chunk.css",
+    "static/js/2.ae22fe96.chunk.js",
+    "static/css/main.29b548f3.chunk.css",
+    "static/js/main.8f612234.chunk.js"
+  ]
+}
